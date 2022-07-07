@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'HomePage.dart';
+import 'webview.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
@@ -80,7 +80,7 @@ class _LoginDemoState extends State<LoginDemo> {
               child: TextButton(
                 onPressed: () {
                   Navigator.push(
-                      context, MaterialPageRoute(builder: (_) => HomePage()));
+                      context, MaterialPageRoute(builder: (_) => const WebViewApp()));
                 },
                 child: const Text(
                   'Login',

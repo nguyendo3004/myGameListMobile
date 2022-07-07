@@ -98,6 +98,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/monz/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/monz/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -147,9 +153,27 @@
     },
     {
       "name": "webview_flutter",
-      "rootUri": "file:///Users/monz/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24",
+      "rootUri": "file:///Users/monz/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "webview_flutter_android",
+      "rootUri": "file:///Users/monz/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "webview_flutter_platform_interface",
+      "rootUri": "file:///Users/monz/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_platform_interface-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "webview_flutter_wkwebview",
+      "rootUri": "file:///Users/monz/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "mygamelist_flutter",
@@ -158,7 +182,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-07-07T17:55:38.490609Z",
+  "generated": "2022-07-07T20:34:51.297214Z",
   "generator": "pub",
   "generatorVersion": "2.17.5"
 }
